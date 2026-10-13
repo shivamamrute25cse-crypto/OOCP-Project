@@ -1,0 +1,15 @@
+BOOK STORE MANAGEMENT — SAMPLE SMOKE TEST
+
+Book added.
+Customer added.
+Sale successful. Total = Rs. 900.00
+
+--- STORE REPORT ---
+Books: 1
+Customers: 1
+Transactions: 1
+Total revenue: Rs. 900.00
+
+Data saved. Goodbye.
+
+Note: These lines summarize a local console smoke test. Your IDs, menu prompts, and values will vary.
